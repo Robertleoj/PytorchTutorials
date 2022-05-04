@@ -1,0 +1,6 @@
+{
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.pylintPath": "/home/go-deeper/Desktop/schoolvenv/bin/pylint",
+  "python.linting.flake8Enabled": true
+}
